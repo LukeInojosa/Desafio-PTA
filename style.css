@@ -218,4 +218,7 @@ h1 {
     .container_icones {
         padding-bottom: 20px;
     }
+    #opcoes {
+        grid-template-areas: 'one main' 'two main';
+    }
 }
